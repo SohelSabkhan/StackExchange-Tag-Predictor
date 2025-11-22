@@ -1,0 +1,19 @@
+body.bg-gradient {
+    background: linear-gradient(324deg, rgba(156,192,251,1) 25%, rgba(194,233,251,1) 58%);
+    font-family: 'Segoe UI', sans-serif;
+    color: #222;
+}
+
+.tag-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tag {
+    background-color: #001f3f;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+}
